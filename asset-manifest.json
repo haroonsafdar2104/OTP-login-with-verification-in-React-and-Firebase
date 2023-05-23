@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/OTP-login-with-verification-in-React-and-Firebase/static/css/main.50ae8f9c.chunk.css",
+    "main.js": "/OTP-login-with-verification-in-React-and-Firebase/static/js/main.c83cbd40.chunk.js",
+    "main.js.map": "/OTP-login-with-verification-in-React-and-Firebase/static/js/main.c83cbd40.chunk.js.map",
+    "runtime-main.js": "/OTP-login-with-verification-in-React-and-Firebase/static/js/runtime-main.a93a065c.js",
+    "runtime-main.js.map": "/OTP-login-with-verification-in-React-and-Firebase/static/js/runtime-main.a93a065c.js.map",
+    "static/css/2.7bc6a19d.chunk.css": "/OTP-login-with-verification-in-React-and-Firebase/static/css/2.7bc6a19d.chunk.css",
+    "static/js/2.39ef39f0.chunk.js": "/OTP-login-with-verification-in-React-and-Firebase/static/js/2.39ef39f0.chunk.js",
+    "static/js/2.39ef39f0.chunk.js.map": "/OTP-login-with-verification-in-React-and-Firebase/static/js/2.39ef39f0.chunk.js.map",
+    "index.html": "/OTP-login-with-verification-in-React-and-Firebase/index.html",
+    "static/css/2.7bc6a19d.chunk.css.map": "/OTP-login-with-verification-in-React-and-Firebase/static/css/2.7bc6a19d.chunk.css.map",
+    "static/css/main.50ae8f9c.chunk.css.map": "/OTP-login-with-verification-in-React-and-Firebase/static/css/main.50ae8f9c.chunk.css.map",
+    "static/js/2.39ef39f0.chunk.js.LICENSE.txt": "/OTP-login-with-verification-in-React-and-Firebase/static/js/2.39ef39f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a93a065c.js",
+    "static/css/2.7bc6a19d.chunk.css",
+    "static/js/2.39ef39f0.chunk.js",
+    "static/css/main.50ae8f9c.chunk.css",
+    "static/js/main.c83cbd40.chunk.js"
+  ]
+}
